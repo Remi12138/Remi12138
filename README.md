@@ -6,11 +6,6 @@
 
 
   <!-- knock code pictures -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Remi12138/Remi12138/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Remi12138/Remi12138/assets/images/developer.svg" height="225px" />
-    <img src="https://cdn.jsdelivr.net/gh/Remi12138/Remi12138/assets/images/coding.gif" />
-  </picture>
 
   <!-- for beauty -->
   <div>&nbsp;</div>
@@ -41,7 +36,7 @@
 
 </table>
 
-### Public Repo
+### 🔥Public Repo
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Remi12138&repo=PixHive)](https://github.com/Remi12138/PixHive)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Remi12138&repo=Foodies)](https://github.com/Remi12138/Foodies)
@@ -49,30 +44,10 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Remi12138&repo=AirSense)](https://github.com/Remi12138/AirSense)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Remi12138&repo=Mini_Amazon)](https://github.com/Remi12138/Mini_Amazon)
 
-<br><br><br>
+### 📊 Github Stats
 
+<p align="center">
+  <img alt="Jin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Remi12138&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=contribs" height="192px"/>
+  <img alt="Jin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Remi12138&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&width=495" height="192px"/>
+</p>
 
-<!-- GitHub metrics -->
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Remi12138&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Remi12138&layout=compact&langs_count=6)
-
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Remi12138/Remi12138/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/Remi12138/Remi12138/github-metrics/reactions.svg" alt="reactions" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Remi12138/Remi12138/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/Remi12138/Remi12138/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Remi12138/Remi12138/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/Remi12138/Remi12138/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
-  </tr>
-
-</table>
-
-
-</div>
