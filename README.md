@@ -12,7 +12,7 @@
   </picture>
 
 </div>
-
+<div>&nbsp;</div>
 <table>
   
 <tr><td>
@@ -24,8 +24,6 @@
 <p style="text-indent: 2em;"><em>"We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility."</em></p>
 
 </td></tr>
-
-
 </table>
 
 ### 🔥Public Repo
