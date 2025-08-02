@@ -26,14 +26,6 @@
 </td></tr>
 </table>
 
-### 🔥Public Repo
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Remi12138&repo=PixHive)](https://github.com/Remi12138/PixHive)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Remi12138&repo=Foodies)](https://github.com/Remi12138/Foodies)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Remi12138&repo=SignFlow_hackathon2025)](https://github.com/Remi12138/SignFlow_hackathon2025)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Remi12138&repo=AirSense)](https://github.com/Remi12138/AirSense)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Remi12138&repo=Mini_Amazon)](https://github.com/Remi12138/Mini_Amazon)
-
 ### 📊 Github Stats
 
 <p align="center">
